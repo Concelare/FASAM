@@ -46,6 +46,7 @@ fn main() -> Result<(), Box<dyn Error>> {
         DisableMouseCapture
     )?;
     // THIS IS AN UPDATE COMMIT LINE FOR TESTING
+    // SECOND UPDATE
     // Starts showing the cursor
     terminal.show_cursor()?;
 
