@@ -47,6 +47,7 @@ fn main() -> Result<(), Box<dyn Error>> {
     )?;
     // THIS IS AN UPDATE COMMIT LINE FOR TESTING
     // SECOND UPDATE
+    // THIRD UPDATE
     // Starts showing the cursor
     terminal.show_cursor()?;
 
